@@ -117,6 +117,24 @@
         "hungry"
       ],
       "id": "11"
-    }    
+    },
+    {
+      "name": "Sasha",
+      "species": "Chimpanzee",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Adam",
+      "species": "Elk",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "13"
+    }
   ]
 }
